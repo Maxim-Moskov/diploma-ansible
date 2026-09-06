@@ -1,0 +1,10 @@
+# Секреты и локальные данные
+inventory.ini
+*.retry
+*.log
+*.pem
+id_rsa*
+id_ed25519*
+key.json
+*-key.json
+.vault_pass

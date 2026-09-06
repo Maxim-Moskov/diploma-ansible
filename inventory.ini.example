@@ -1,0 +1,7 @@
+[app]
+diploma-app ansible_host=CHANGE_ME
+
+[app:vars]
+ansible_user=ubuntu
+ansible_ssh_private_key_file=~/.yc-diploma/diploma_vm
+ansible_python_interpreter=/usr/bin/python3
